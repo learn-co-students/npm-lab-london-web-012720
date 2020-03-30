@@ -1,0 +1,15 @@
+{
+  "name": "clock-package",
+  "version": "1.0.0",
+  "description": "pass the dang test",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "\"echo 'Hello World!'\""
+  },
+  "author": "",
+  "license": "ISC"
+}
